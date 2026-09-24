@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I am Đức Toàn</h1>
+<div align="center">
+  <img src="./assets/greeting.png" width="100%" alt="Hi, I am Đức Toàn" />
+</div>
 
 ###
 
