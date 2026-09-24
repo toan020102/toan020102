@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-label="ùu ùc Toùn, fullstack developer">
+  <rect width="1100" height="520" fill="#09090b"/>
+  <rect x="14" y="14" width="1072" height="492" rx="16" fill="#09090b" stroke="#27272a" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#d4d4d8">
+    <text x="40" y="58">......................######................</text>
+    <text x="40" y="74">..................############..............</text>
+    <text x="40" y="90">...............################.............</text>
+    <text x="40" y="106">.............##################.............</text>
+    <text x="40" y="122">............######......######..............</text>
+    <text x="40" y="138">...........#####...##....#####..............</text>
+    <text x="40" y="154">...........####..........#####..............</text>
+    <text x="40" y="170">...........####....####..#####..............</text>
+    <text x="40" y="186">............###..######..####...............</text>
+    <text x="40" y="202">.............################...............</text>
+    <text x="40" y="218">...............############.................</text>
+    <text x="40" y="234">.................########...................</text>
+    <text x="40" y="258">...............##############...............</text>
+    <text x="40" y="274">............####################............</text>
+    <text x="40" y="290">.........##########################.........</text>
+    <text x="40" y="306">......################################......</text>
+    <text x="40" y="322">...######################################...</text>
+  </g>
+
+  <rect x="40" y="40" width="430" height="3" fill="#c5ff4a" opacity="0.35">
+    <animate attributeName="y" values="40;430;40" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="560" y="78" fill="#fafafa" font-size="28" font-weight="700">ùu ùc Toùn</text>
+    <text x="560" y="110" fill="#a1a1aa" font-size="16">@toan020102</text>
+    <text x="560" y="142" fill="#c5ff4a" font-size="16">[ Fullstack Developer ]</text>
+
+    <text x="560" y="196" fill="#71717a" font-size="15">Work --------------------------------</text>
+    <text x="560" y="228" fill="#e4e4e7" font-size="15">Role ............... Fullstack Developer</text>
+    <text x="560" y="256" fill="#e4e4e7" font-size="15">Stack ...... React, FastAPI, Postgres</text>
+    <text x="560" y="284" fill="#e4e4e7" font-size="15">Infra ............ Docker, Kubernetes</text>
+
+    <text x="560" y="340" fill="#71717a" font-size="15">Now ---------------------------------</text>
+    <text x="560" y="372" fill="#e4e4e7" font-size="15">UI and API, then ship the container</text>
+    <text x="560" y="400" fill="#e4e4e7" font-size="15">CI/CD and GitOps on Kubernetes</text>
+
+    <text x="560" y="452" fill="#c5ff4a" font-size="16">ready<tspan>_
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </tspan></text>
+  </g>
+</svg>
