@@ -39,18 +39,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=toan020102&theme=tokyonight&hide_border=false" height="180" alt="streak" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toan020102&theme=tokyonight&column=6&margin-w=12&margin-h=12" height="180" alt="trophies" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toan020102/toan020102/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/toan020102/toan020102/output/github-snake.svg" alt="snake" width="100%" />
-</picture>
-
-###
