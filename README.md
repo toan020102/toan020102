@@ -1,6 +1,20 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:22d3ee&height=180&section=header&text=%C4%90%E1%BA%ADu%20%C4%90%E1%BB%A9c%20To%C3%A0n&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Đậu Đức Toàn" />
+</div>
+
 ###
 
 <h1 align="center">Hey 👋, I'm Đức Toàn</h1>
+
+###
+
+```javascript
+const developer = {
+  role: "Fullstack Developer",
+  stack: ["React", "FastAPI", "PostgreSQL", "Docker", "Kubernetes"],
+  focus: "UI, API, then the path to production",
+};
+```
 
 ###
 
@@ -38,4 +52,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=toan020102&theme=tokyonight&hide_border=false" height="180" alt="streak" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0b1020&height=100&section=footer" width="100%" alt="" />
 </div>
